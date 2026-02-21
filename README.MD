@@ -33,11 +33,11 @@ Se crearon dos gráficos principales:
 
 ### 1. Tipo de Contrato vs Churn
 Se analizó la distribución del contrato de los clientes en función de si abandonaron o no la compañía.
-
+![alt text](image.png)
 ### 2. Tenure vs Churn
 Se visualizó la relación entre el tiempo de permanencia del cliente y la evasión.  
 Esto ayuda a identificar si los clientes con menor antigüedad presentan mayor probabilidad de cancelar el servicio.
-
+![alt text](image-1.png)
 ## Principales Hallazgos
 - Los clientes que abandonan la compañía tienden a tener contrato a menor tiempo (Meses)
 - El total gastado suele ser menor en clientes que presentan churn.
